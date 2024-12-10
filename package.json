@@ -28,7 +28,7 @@
     "intl-parse-accept-language": "^1.0.0",
     "lucide-vue-next": "^0.428.0",
     "mysql-bricks": "^1.1.2",
-    "nanoid": "^5.0.7",
+    "nanoid": "^5.0.9",
     "pluralize": "^8.0.0",
     "qr-code-styling": "1.6.0-rc.1",
     "radix-vue": "^1.9.4",
